@@ -32,11 +32,11 @@ According to the supplied report/notebook outputs:
 
 These are validation metrics, not results from an independent held-out test set. The report notes a gap between training and validation performance, indicating overfitting and room for improvement.
 
-## Repository files
+## Files to add
 
-- `RA2311026050189_PS48_Driver_Distraction_Report.pdf` — project report (PDF)
-- `RA2311026050189_PS48_Driver_Distraction_Report.docx` — editable report (Word)
-- `README.md` — project overview
+The following report files were provided separately but are **not yet committed to this repository**:
+- `RA2311026050189_PS48_Driver_Distraction_Report.pdf`
+- `RA2311026050189_PS48_Driver_Distraction_Report.docx`
 
 The Google Colab notebook has not been included yet. Add the executed `.ipynb` notebook here to make the code reproducible.
 
